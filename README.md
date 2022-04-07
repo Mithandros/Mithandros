@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mithandros
+- 👋 Hi, I’m Precious IHIRE
 - 👀 I’m interested in Web Development and Open Source
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Open Source Projects
