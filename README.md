@@ -1,6 +1,6 @@
-- 👋 ## Hi, I'm Precious!
-- 👀 I’m interested in Web Development and Open Source
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I'm Precious!
+- 👀 Frontend Engineer || Open Source Contributor
+- 🌱 HTML || CSS || Javascript || React
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: Linkedin (https://www.linkedin.com/in/preciousihire), Twitter (https://twitter.com/FlashIhire)
 
